@@ -1,0 +1,22 @@
+module mem_inst(
+    input [31:0]RA,
+    output reg [31:0] rd
+);
+
+    reg [31:0] memoria_inst [0:31];
+    wire [3:0]lineas;    
+
+    initial begin
+    	$readmemb("TestF1_MemInst.mem", memoria_inst);
+    end
+
+    always @(*) begin
+	assign lineas[0] = memoria_inst[RA];
+	assign lineas[1] = memoria_inst[RA + 2'b1];
+	assign lineas[2] = memoria_inst[RA + 2'b2];		
+	assign lineas[3] = memoria_inst[RA + 2'b3];
+
+	assign rd = lineas[0] + lineas[1] + lineas[2] + lineas[3];
+    end
+
+endmodule
