@@ -1,0 +1,107 @@
+C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/MUX5a1.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\MUX5a1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux6a1
+
+Top level modules:
+	mux6a1
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/ALU_Control.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\ALU_Control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Alu_Control
+
+Top level modules:
+	Alu_Control
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/SUM32b_Comp.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\SUM32b_Comp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module S32_comportamental
+
+Top level modules:
+	S32_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/BR.v {2 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\BR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+** Warning: C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\BR.v(21): (vlog-2182) 'memory' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	BR
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/U_CONTROL.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\U_CONTROL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module U_CONTROL
+
+Top level modules:
+	U_CONTROL
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/OR32b_Comp.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\OR32b_Comp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Or32_comportamental
+
+Top level modules:
+	Or32_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/TB_DTPR.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\TB_DTPR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DTPR
+
+Top level modules:
+	TB_DTPR
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/RES32b_Comp.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/RES32b_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module R32_comportamental
+
+Top level modules:
+	R32_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/DATAPATH/NOR32_Comp.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\DATAPATH\NOR32_Comp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Nor_comportamental
+
+Top level modules:
+	Nor_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/AND32b_Comp.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\AND32b_Comp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module And32_comportamental
+
+Top level modules:
+	And32_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/DTPR.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\DTPR.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DTPR
+
+Top level modules:
+	DTPR
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/ALUMIPS.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\entregable\ALUMIPS.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUMIPS
+
+Top level modules:
+	ALUMIPS
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/SLT.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/SLT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Slt32_comportamental
+
+Top level modules:
+	Slt32_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/MUX2a1.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/MUX2a1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2a1
+
+Top level modules:
+	mux2a1
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/MEM.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/entregable/MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}}

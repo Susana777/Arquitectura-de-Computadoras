@@ -1,0 +1,121 @@
+C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/DTPR.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/DTPR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DTPR
+
+Top level modules:
+	DTPR
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/SUM32b_Comp.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/SUM32b_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module S32_comportamental
+
+Top level modules:
+	S32_comportamental
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/ALU_Control.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/ALU_Control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Alu_Control
+
+Top level modules:
+	Alu_Control
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/Mem_Inst.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/Mem_Inst.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mem_inst
+
+Top level modules:
+	mem_inst
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/U_CONTROL.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/U_CONTROL.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module U_CONTROL
+
+Top level modules:
+	U_CONTROL
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/MUX2a1.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/MUX2a1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2a1
+
+Top level modules:
+	mux2a1
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/TB_DTPR.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/TB_DTPR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DTPR
+
+Top level modules:
+	TB_DTPR
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/RES32b_Comp.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/RES32b_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module R32_comportamental
+
+Top level modules:
+	R32_comportamental
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/AND32b_Comp.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/AND32b_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module And32_comportamental
+
+Top level modules:
+	And32_comportamental
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/MUX5a1.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/MUX5a1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux5a1
+
+Top level modules:
+	mux5a1
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/NOR32_Comp.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/NOR32_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Nor_comportamental
+
+Top level modules:
+	Nor_comportamental
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/PC.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/PC.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc
+
+Top level modules:
+	pc
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/ALUMIPS.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/ALUMIPS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALUMIPS
+
+Top level modules:
+	ALUMIPS
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/SLT.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/SLT.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Slt32_comportamental
+
+Top level modules:
+	Slt32_comportamental
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/BR.v {2 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/BR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module BR
+** Warning: C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/BR.v(21): (vlog-2182) 'memory' might be read before written in always_comb or always @* block.
+
+Top level modules:
+	BR
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/OR32b_Comp.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/OR32b_Comp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Or32_comportamental
+
+Top level modules:
+	Or32_comportamental
+
+} {} {}} C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/MEM.v {1 {vlog -work work -stats=none C:/Users/takit/OneDrive/Documentos/Arquitectura_Compus/Single_Datapath/MEM.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MEM
+
+Top level modules:
+	MEM
+
+} {} {}}
