@@ -10,280 +10,303 @@ z2
 cModel Technology
 dC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath
 vAlu_Control
-!s110 1778353631
+Z0 !s110 1778354525
 !i10b 1
 !s100 G]D20QYXkke^PBDYlLGja2
-Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
 IM::o<SF<GSVBYl18EflPT1
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dC:/Users/Susi/OneDrive/Desktop/Verilog/SDTP
-Z3 w1778080968
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Susi/OneDrive/Desktop/Verilog/SDTP
+Z4 w1778080968
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\ALU_Control.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\ALU_Control.v
-!i122 202
+!i122 291
 L0 1 23
-Z4 OV;L;2020.1;71
+Z5 OV;L;2020.1;71
 r1
 !s85 0
 31
-!s108 1778353631.000000
+Z6 !s108 1778354525.000000
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\ALU_Control.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\ALU_Control.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+Z7 o-work work
+Z8 tCvgOpt 0
 n@alu_@control
 vALUMIPS
-Z7 !s110 1778353632
+R0
 !i10b 1
 !s100 l74BPC<AUfRETE6C`<LgG2
-R0
-IJ5BfM11J4T=JN2eN<f<Z<2
 R1
+IJ5BfM11J4T=JN2eN<f<Z<2
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALUMIPS.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALUMIPS.v
-!i122 203
-Z8 L0 1 30
-R4
+!i122 292
+Z9 L0 1 30
+R5
 r1
 !s85 0
 31
-Z9 !s108 1778353632.000000
+R6
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALUMIPS.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALUMIPS.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@a@l@u@m@i@p@s
 vAnd32_comportamental
-R7
+R0
 !i10b 1
 !s100 S[9e3l>BGhD;<lLzSESo32
-R0
-I=@_P86QU8JCkiZQUR9LcC3
 R1
+I=@_P86QU8JCkiZQUR9LcC3
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/AND32b_Comp.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/AND32b_Comp.v
-!i122 204
+!i122 293
 Z10 L0 1 5
-R4
+R5
 r1
 !s85 0
 31
-R9
+R6
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/AND32b_Comp.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/AND32b_Comp.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@and32_comportamental
 vBR
-R7
+R0
 !i10b 1
 !s100 [FaUNP>G]JMo4;;dcV;f`0
-R0
-I]`bGf9^OhS>UH=[foYP`K1
 R1
+I]`bGf9^OhS>UH=[foYP`K1
 R2
+R3
 w1778082372
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v
-!i122 205
-R8
-R4
+!i122 294
+R9
+R5
 r1
 !s85 0
 31
-R9
+R6
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@b@r
 vDTPR
-R7
+Z11 !s110 1778354526
 !i10b 1
-!s100 `=oeW=Dc6ID0[Xi4ELOjT1
-R0
-IH<D]ghFA:z`<ImVKWWel70
+!s100 TeIU2ShhKlEH<Ah3>:5jS2
 R1
+IcjFLdi193?gZaOehcBZCF3
 R2
-w1778353432
+R3
+w1778354353
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\DTPR.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\DTPR.v
-!i122 206
+!i122 295
 L0 1 159
-R4
+R5
 r1
 !s85 0
 31
-R9
+R6
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\DTPR.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\DTPR.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@d@t@p@r
 vMEM
-R7
+R11
 !i10b 1
 !s100 Hd20S[e_548F>4X70:fbn1
-R0
-IN=Xzh9BRK0=Bn7T14[a2>3
 R1
+IN=Xzh9BRK0=Bn7T14[a2>3
 R2
 R3
+R4
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MEM.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MEM.v
-!i122 207
-R8
-R4
+!i122 296
+R9
+R5
 r1
 !s85 0
 31
-R9
+Z12 !s108 1778354526.000000
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MEM.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MEM.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@m@e@m
 vmem_inst
-R7
+R11
 !i10b 1
 !s100 :L;3g8[oUZS;BT3_dO7Df3
-R0
-IoRheFQa_iiaLc3EaC;V1B2
 R1
+IoRheFQa_iiaLc3EaC;V1B2
 R2
+R3
 w1778083036
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\Mem_Inst.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\Mem_Inst.v
-!i122 208
+!i122 297
 L0 1 20
-R4
+R5
 r1
 !s85 0
 31
-R9
+R12
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\Mem_Inst.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\Mem_Inst.v|
 !i113 1
-R5
-R6
-vmux2a1
 R7
+R8
+vmux2a1
+R11
 !i10b 1
-!s100 `GiG:BadhB@o7[[0K<De=0
-R0
-IgWi278Q`h0h1zJ]ok7RhL2
+!s100 MYTIl=jG7@3i5ThEhFZFb2
 R1
+I5oWXLUV5iU9OeQfaTn83@1
 R2
-w1778353256
+R3
+w1778354325
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MUX2a1.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MUX2a1.v
-!i122 209
-L0 1 15
-R4
+!i122 298
+Z13 L0 1 15
+R5
 r1
 !s85 0
 31
-R9
+R12
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MUX2a1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MUX2a1.v|
 !i113 1
-R5
-R6
-vmux5a1
 R7
+R8
+vmux2a1_5b
+Z14 !s110 1778354527
 !i10b 1
-!s100 `QELMTd2^BbN;Qz]<=DVC2
-R0
-IjfE`7^mFPQ=gYYOdSkbeQ0
+!s100 e`__a5Yk743=aY6F9=8cF2
 R1
+IkaHzOKXXef?842:b:?F8;1
 R2
 R3
-8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX5a1.v
-FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX5a1.v
-!i122 210
-L0 1 18
-R4
+w1778354490
+8C:\Users\Susi\OneDrive\Desktop\Verilog\SDTP\MUX2a1_5b.v
+FC:\Users\Susi\OneDrive\Desktop\Verilog\SDTP\MUX2a1_5b.v
+!i122 308
+R13
+R5
 r1
 !s85 0
 31
-R9
+Z15 !s108 1778354527.000000
+!s107 C:\Users\Susi\OneDrive\Desktop\Verilog\SDTP\MUX2a1_5b.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\SDTP\MUX2a1_5b.v|
+!i113 1
+R7
+R8
+vmux5a1
+R11
+!i10b 1
+!s100 `QELMTd2^BbN;Qz]<=DVC2
+R1
+IjfE`7^mFPQ=gYYOdSkbeQ0
+R2
+R3
+R4
+8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX5a1.v
+FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX5a1.v
+!i122 299
+L0 1 18
+R5
+r1
+!s85 0
+31
+R12
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX5a1.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX5a1.v|
 !i113 1
-R5
-R6
+R7
+R8
 vNor_comportamental
-Z11 !s110 1778353633
+R11
 !i10b 1
 !s100 k2962eT_2hh<7cJN`QP5P2
-R0
-IU5<`cb76EIJ4z2mO]1YRO1
 R1
+IU5<`cb76EIJ4z2mO]1YRO1
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/NOR32_Comp.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/NOR32_Comp.v
-!i122 211
+!i122 300
 L0 1 9
-R4
+R5
 r1
 !s85 0
 31
-R9
+R12
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/NOR32_Comp.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/NOR32_Comp.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@nor_comportamental
 vOr32_comportamental
 R11
 !i10b 1
 !s100 `mG9VkjTf<]e?dYmb8a7<0
-R0
-IRM5OZd_?KmXClPfdWG9_Q2
 R1
+IRM5OZd_?KmXClPfdWG9_Q2
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/OR32b_Comp.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/OR32b_Comp.v
-!i122 212
+!i122 301
 R10
-R4
+R5
 r1
 !s85 0
 31
-Z12 !s108 1778353633.000000
+R12
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/OR32b_Comp.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/OR32b_Comp.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@or32_comportamental
 vpc
 R11
 !i10b 1
 !s100 jEh@o>CLf0An18c]8`T`^2
-R0
-IT9hbFC@=9SHYA:EjoaHY`2
 R1
+IT9hbFC@=9SHYA:EjoaHY`2
 R2
+R3
 w1778353438
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\PC.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\PC.v
-!i122 213
+!i122 302
 L0 1 10
-R4
+R5
 r1
 !s85 0
 31
@@ -291,22 +314,22 @@ R12
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\PC.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\PC.v|
 !i113 1
-R5
-R6
+R7
+R8
 vR32_comportamental
-R11
+R14
 !i10b 1
 !s100 ggWL6=FT8ze=DL7YWfE0B2
-R0
-In9B@b1`75BQgJff7l01nP2
 R1
+In9B@b1`75BQgJff7l01nP2
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v
-!i122 214
+!i122 303
 R10
-R4
+R5
 r1
 !s85 0
 31
@@ -314,102 +337,102 @@ R12
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@r32_comportamental
 vS32_comportamental
-R11
+R14
 !i10b 1
 !s100 kXz9m[[Gc@:f<VJ]R_A0:1
-R0
-Ii[cLJccQ:jMA5Oaz2W8ZN2
 R1
+Ii[cLJccQ:jMA5Oaz2W8ZN2
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SUM32b_Comp.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SUM32b_Comp.v
-!i122 216
+!i122 305
 R10
-R4
+R5
 r1
 !s85 0
 31
-R12
+R15
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SUM32b_Comp.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SUM32b_Comp.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@s32_comportamental
 vSlt32_comportamental
-R11
+R14
 !i10b 1
 !s100 hnhLB:eT;<>`R_UKNcTek2
-R0
-IWJ0YhRJ7f2ZI2N[jOn=<j2
 R1
+IWJ0YhRJ7f2ZI2N[jOn=<j2
 R2
 R3
+R4
 8C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SLT.v
 FC:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SLT.v
-!i122 215
+!i122 304
 R10
-R4
+R5
 r1
 !s85 0
 31
-R12
+R15
 !s107 C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SLT.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SLT.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@slt32_comportamental
 vTB_DTPR
-R11
+R14
 !i10b 1
 !s100 jAh;?_TTYhJO7nXEI11oZ1
-R0
-IU;MFiXYT]@3X[fHTZo2JC2
 R1
+IU;MFiXYT]@3X[fHTZo2JC2
 R2
+R3
 w1778352099
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\TB_DTPR.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\TB_DTPR.v
-!i122 217
+!i122 306
 L0 2 64
-R4
+R5
 r1
 !s85 0
 31
-R12
+R15
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\TB_DTPR.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\TB_DTPR.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@t@b_@d@t@p@r
 vU_CONTROL
-R11
+R14
 !i10b 1
 !s100 V@c4k4FobkI0GJOzCmaJh1
-R0
-IjTEBI@`dA_7c<_G[9[VL93
 R1
+IjTEBI@`dA_7c<_G[9[VL93
 R2
+R3
 w1778084613
 8C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\U_CONTROL.v
 FC:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\U_CONTROL.v
-!i122 218
+!i122 307
 L0 1 34
-R4
+R5
 r1
 !s85 0
 31
-R12
+R15
 !s107 C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\U_CONTROL.v|
 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\U_CONTROL.v|
 !i113 1
-R5
-R6
+R7
+R8
 n@u_@c@o@n@t@r@o@l
