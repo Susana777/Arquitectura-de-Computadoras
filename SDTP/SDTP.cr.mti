@@ -19,13 +19,6 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	ALUMIPS
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/PC.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/PC.v
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module pc
-
-Top level modules:
-	pc
-
 } {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/BR.v {2 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module BR
@@ -47,13 +40,6 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 
 Top level modules:
 	MEM
-
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/DTPR.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\DTPR.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module DTPR
-
-Top level modules:
-	DTPR
 
 } {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SUM32b_Comp.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/SUM32b_Comp.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -83,12 +69,12 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	U_CONTROL
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX2a1.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MUX2a1.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/TB_DTPR.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\TB_DTPR.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module mux2a1
+-- Compiling module TB_DTPR
 
 Top level modules:
-	mux2a1
+	TB_DTPR
 
 } {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
