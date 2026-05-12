@@ -11,6 +11,7 @@ module DTPR(input clk,
     wire [31:0]salida_add_pc;
 
     //Separacion de la intruccion de entrada de 32 bits.
+	
     wire [5:0] op;
     wire [4:0] rs;
     wire [4:0] rt;
@@ -51,23 +52,27 @@ module DTPR(input clk,
 
     //cable para salida de rd del multiplexor 2:1 a banco de registros
     wire [4:0]rd_mux;
-
+    
+	
+	//Para la extencion de las instrucciones tipo I 
+	wire [31:0] sign_extend;
+    assign sign_extend = {{16{inst[15]}}, inst[15:0]};
 
     //Instanciado del modulo PC
     pc u_pc(
-		.clk(clk),
-		.entrada(entrada_pc),
-		.dir(salida_pc)
+	.clk(clk),
+	.entrada(entrada_pc),
+	.dir(salida_pc)
     );
 
     //Instanciado del modulo Memoria Intrucciones
-    mem_inst u_mem_inst(
-		.RA(salida_pc),
-		.rd(inst)
-    );
+    //mem_inst u_mem_inst(
+	//.RA(salida_pc),
+	//.rd(inst)
+    //);
 
     //Instanciado del modulo MUX 2:1 para la dir de memoria de instrucciones a banco de registros
-    mux2a1 multiplexor2a1_memorias_rd(
+    mux2a1_5b multiplexor2a1_memorias_rd(
         .entrada1(rt),
         .entrada2(rd),
         .selector(RegDst),
@@ -76,16 +81,17 @@ module DTPR(input clk,
 
     //Instanciado del modulo PO
     S32_comportamental u_S32_comp(
-		.A_SUM(salida_pc),
-		.B_SUM(cuatro_bits),
-		.R_SUM(salida_add_pc)
+	.A_SUM(salida_pc),
+	.B_SUM(cuatro_bits),
+	.R_SUM(salida_add_pc)
     );
 
-    //Instanciado del modulo MUX 2:1 para la salida de suma de 4 bits 
+    //Instanciado del modulo MUX 2:1 para la salida de suma de 4 bits
+	//forzamos el cero
     mux2a1 multiplexor2a1_memorias_add(
         .entrada1(salida_add_pc),
-        .entrada2(nada),
-        .selector(nada_2),
+        .entrada2(32'b0),
+        .selector(1'b0),
         .Resultado(entrada_pc)
     );
 
@@ -106,7 +112,7 @@ module DTPR(input clk,
         .RA1(rs),
         .RA2(rt),
         .WE(RegWrite),
-        .AW(rd),
+        .AW(rd_mux),
         .DW(_final),
         .DR1(op1),
         .DR2(op2_br)
@@ -121,8 +127,8 @@ module DTPR(input clk,
     //Instanciado del modulo MUX 2:1 para la salida de banco de registros
     mux2a1 multiplexor2a1_memorias_br(
         .entrada1(op2_br),
-        .entrada2(nada),
-        .selector(nada_2),
+        .entrada2(sign_extend),
+        .selector(ALUSrc),
         .Resultado(op2)
     );
 
