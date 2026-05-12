@@ -51,21 +51,19 @@ module DTPR(input clk,
 
     //cable para salida de rd del multiplexor 2:1 a banco de registros
     wire [4:0]rd_mux;
-    wire [31:0] nada;
-    wire nada_2;
 
 
     //Instanciado del modulo PC
     pc u_pc(
-	.clk(clk),
-	.entrada(entrada_pc),
-	.dir(salida_pc)
+		.clk(clk),
+		.entrada(entrada_pc),
+		.dir(salida_pc)
     );
 
     //Instanciado del modulo Memoria Intrucciones
     mem_inst u_mem_inst(
-	.RA(salida_pc),
-	.rd(inst)
+		.RA(salida_pc),
+		.rd(inst)
     );
 
     //Instanciado del modulo MUX 2:1 para la dir de memoria de instrucciones a banco de registros
@@ -78,9 +76,9 @@ module DTPR(input clk,
 
     //Instanciado del modulo PO
     S32_comportamental u_S32_comp(
-	.A_SUM(salida_pc),
-	.B_SUM(cuatro_bits),
-	.R_SUM(salida_add_pc)
+		.A_SUM(salida_pc),
+		.B_SUM(cuatro_bits),
+		.R_SUM(salida_add_pc)
     );
 
     //Instanciado del modulo MUX 2:1 para la salida de suma de 4 bits 
@@ -94,14 +92,14 @@ module DTPR(input clk,
     //Instanciado de los modulos correspondientes
     U_CONTROL U_C(
         .OP(op),
-	.RegDst(RegDst),
-	.Branch(Branch),
+		.RegDst(RegDst),
+		.Branch(Branch),
         .MemToReg(MemToReg),
         .MemToRead(MemToRead),
         .MemToWrite(MemToWrite),
         .ALUOp(ALUOp),
         .RegWrite(RegWrite),
-	.ALUSrc(ALUSrc)
+		.ALUSrc(ALUSrc)
     );
 
     BR banco_registros(
