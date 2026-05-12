@@ -5,7 +5,7 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	Nor_comportamental
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/PC.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\PC.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/PC.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/PC.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module pc
 
@@ -26,10 +26,10 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	ALUMIPS
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/BR.v {2 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/BR.v {2 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/BR.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module BR
-** Warning: C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\BR.v(21): (vlog-2182) 'memory' might be read before written in always_comb or always @* block.
+** Warning: C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/BR.v(21): (vlog-2182) 'memory' might be read before written in always_comb or always @* block.
 
 Top level modules:
 	BR
@@ -41,14 +41,14 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	Or32_comportamental
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/SDTP/MUX2a1_5b.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\SDTP\MUX2a1_5b.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/SDTP/MUX2a1_5b.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/SDTP/MUX2a1_5b.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module mux2a1_5b
 
 Top level modules:
 	mux2a1_5b
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MEM.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MEM.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MEM.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MEM.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module MEM
 
@@ -69,40 +69,33 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 Top level modules:
 	S32_comportamental
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALU_Control.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\ALU_Control.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALU_Control.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/ALU_Control.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module Alu_Control
 
 Top level modules:
 	Alu_Control
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/Mem_Inst.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\Mem_Inst.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/Mem_Inst.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/Mem_Inst.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module mem_inst
 
 Top level modules:
 	mem_inst
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/U_CONTROL.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\U_CONTROL.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/U_CONTROL.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/U_CONTROL.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module U_CONTROL
 
 Top level modules:
 	U_CONTROL
 
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX2a1.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\MUX2a1.v}
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX2a1.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/MUX2a1.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
 -- Compiling module mux2a1
 
 Top level modules:
 	mux2a1
-
-} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/TB_DTPR.v {1 {vlog -work work -stats=none {C:\Users\Susi\OneDrive\Desktop\Verilog\Single_Datapath\TB_DTPR.v}
-Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
--- Compiling module TB_DTPR
-
-Top level modules:
-	TB_DTPR
 
 } {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/RES32b_Comp.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
@@ -110,6 +103,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 
 
 Top level modules:
 	R32_comportamental
+
+} {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/TB_DTPR.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/TB_DTPR.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_DTPR
+
+Top level modules:
+	TB_DTPR
 
 } {} {}} C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/AND32b_Comp.v {1 {vlog -work work -stats=none C:/Users/Susi/OneDrive/Desktop/Verilog/Single_Datapath/AND32b_Comp.v
 Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
